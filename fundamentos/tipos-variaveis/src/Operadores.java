@@ -11,9 +11,13 @@ public class Operadores {
         System.out.println(numero);
 
         System.out.println(numero ++); // incrementa depois 
-
         System.out.println(numero);
-        
         System.out.println(++ numero); // incrementa antes
+
+        // operadores booleanos
+        boolean eValido = true;
+
+        eValido = !eValido;
+        System.out.println(eValido);
     }
 }
