@@ -29,5 +29,25 @@ public class Operadores {
         String resultado = a == b ? "verdadeiro" : "false";
 
         System.out.println(resultado);
+
+        //operadores relacionais
+
+        String nome = "Jeferson";
+        String outroNome = new String("JefErson");
+
+        System.out.println(nome.equalsIgnoreCase(outroNome));
+
+        a = 3;
+        b = 1;
+
+        boolean simOuNao = a != b;
+
+        System.out.println(simOuNao);
+
+        simOuNao = a > b;
+        System.out.println(simOuNao);
+
+        simOuNao = a < b ;
+        System.out.println(simOuNao);
     }
 }
