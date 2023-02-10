@@ -49,5 +49,22 @@ public class Operadores {
 
         simOuNao = a < b ;
         System.out.println(simOuNao);
+
+        //operadores lógicos 
+
+        boolean condicao1 = true;
+        boolean condicao2 = false ;
+
+        if(condicao1 && condicao2) {
+            System.out.println("as duas condições são verdadeiras");
+        }
+        else {
+            System.out.println("uma condição é falsa");
+        }
+
+        if(condicao1 || condicao2) {
+            System.out.println("uma das duas condições são verdadeiras");
+        }
+
     }
 }
