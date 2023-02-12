@@ -6,33 +6,6 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "Launch App",
-            "request": "launch",
-            "mainClass": "App",
-            "projectName": "dio-banco-pan-bootcamp-_481719"
-        },
-        {
-            "type": "java",
-            "name": "Launch Operadores",
-            "request": "launch",
-            "mainClass": "Operadores",
-            "projectName": "dio-banco-pan-bootcamp-_481719"
-        },
-        {
-            "type": "java",
-            "name": "Launch TiposVariaveis",
-            "request": "launch",
-            "mainClass": "TiposVariaveis",
-            "projectName": "dio-banco-pan-bootcamp-_481719"
-        },
-        {
-            "type": "java",
             "name": "Launch Usuario",
             "request": "launch",
             "mainClass": "Usuario",
