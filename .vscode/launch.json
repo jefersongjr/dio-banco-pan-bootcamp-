@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ex1_NomeIdade",
+            "request": "launch",
+            "mainClass": "Ex1_NomeIdade",
+            "projectName": "dio-banco-pan-bootcamp-_481719"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "dio-banco-pan-bootcamp-_481719"
+        },
+        {
+            "type": "java",
+            "name": "Launch DIO",
+            "request": "launch",
+            "mainClass": "DIO",
+            "projectName": "dio-banco-pan-bootcamp-_481719"
+        },
+        {
+            "type": "java",
             "name": "Launch Usuario",
             "request": "launch",
             "mainClass": "Usuario",
