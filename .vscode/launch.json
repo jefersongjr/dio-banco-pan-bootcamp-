@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ex4_ParImpar",
+            "request": "launch",
+            "mainClass": "Ex4_ParImpar",
+            "projectName": "dio-banco-pan-bootcamp-_481719"
+        },
+        {
+            "type": "java",
             "name": "Launch Ex3_MaiorEMedia",
             "request": "launch",
             "mainClass": "Ex3_MaiorEMedia",
