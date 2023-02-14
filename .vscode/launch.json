@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ex7_OrdemInversa",
+            "request": "launch",
+            "mainClass": "Ex7_OrdemInversa",
+            "projectName": "dio-banco-pan-bootcamp-_481719"
+        },
+        {
+            "type": "java",
             "name": "Launch Ex6_Fatorial",
             "request": "launch",
             "mainClass": "Ex6_Fatorial",
