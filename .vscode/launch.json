@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ex5_Tabuada",
+            "request": "launch",
+            "mainClass": "Ex5_Tabuada",
+            "projectName": "dio-banco-pan-bootcamp-_481719"
+        },
+        {
+            "type": "java",
             "name": "Launch Ex4_ParImpar",
             "request": "launch",
             "mainClass": "Ex4_ParImpar",
