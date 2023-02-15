@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Ex8_Consoantes
  */
-public class Ex8_Consoantes {
+public class Ex2_Consoantes {
 
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
