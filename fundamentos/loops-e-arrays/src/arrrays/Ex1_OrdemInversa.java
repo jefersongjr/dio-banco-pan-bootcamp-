@@ -1,5 +1,5 @@
 
-public class Ex7_OrdemInversa {
+public class Ex1_OrdemInversa {
     public static void main(String[] args) {
         int[] lista = { -5, -6, 15, 80, 60, 17, 4};
           
