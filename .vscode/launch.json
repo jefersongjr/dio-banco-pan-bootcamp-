@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ex3_NumerosAleatorios",
+            "request": "launch",
+            "mainClass": "Ex3_NumerosAleatorios",
+            "projectName": "dio-banco-pan-bootcamp-_481719"
+        },
+        {
+            "type": "java",
             "name": "Launch Ex8_Consoantes",
             "request": "launch",
             "mainClass": "Ex8_Consoantes",
